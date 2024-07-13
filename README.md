@@ -6,12 +6,18 @@ Welcome to the **Lunar Lander** project! This repository contains the implementa
 
 The Lunar Lander project simulates the classic task of landing a spacecraft on the moon. The goal is to safely land the lunar module on the moon's surface using various algorithms and models.
 
+## Lunar Lander Video Demo
+
+![Lunar Lander Demo](giphy.gif)
+
+
 ## Features
 
 - 🧠 **Reinforcement Learning**: Utilizes deep reinforcement learning to control the lunar lander.
 - 🎮 **Simulation Environment**: Built with OpenAI Gym for a realistic simulation.
 - 📊 **Visualization**: Includes tools for visualizing the landing process and model performance.
 - 🧪 **Testing**: Comprehensive tests to ensure the robustness of the model.
+
 
 ## Getting Started
 
